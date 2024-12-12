@@ -8,7 +8,6 @@ This repository contains files for the final project of **LING 227** at Yale on 
 - `gpt_test.ipynb`
 - `gpt-results.csv`
 - `analysis.R`
-- `aae-rec.pdf`
 
 ---
 
@@ -34,8 +33,5 @@ This repository contains files for the final project of **LING 227** at Yale on 
 - Depends on `gpt-results.csv` (format produced by `gpt_test.ipynb`).  
 - **Required Packages**: `readr`, `ggplot2`, and `broom`.  
 - Outputs the results of logistic regression and produces a `.png` plot.
-
-#### `aae-rec.pdf`
-- The (unpublished) paper associated with this repository.
 
 ---
